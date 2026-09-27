@@ -1,0 +1,4 @@
+# Build outputs
+*.o
+*.a
+/tests/test_path
